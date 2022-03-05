@@ -1,0 +1,3 @@
+rencana belajar
+- pytohn
+php
